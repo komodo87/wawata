@@ -1,1 +1,3 @@
-# wawata
+# Welcome To Wawata!
+
+Wawata is a 3D graphics framework designed to be ...
